@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailorososection3\\section3crud\\repository\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|solutionrelative:repository\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailorososection3\\section3crud\\repository\\mssqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|solutionrelative:repository\\mssqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailorososection3\\section3crud\\utility\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|solutionrelative:utility\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailorososection3\\section3crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailorososection3\\section3crud\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailorososection3\\section3crud\\model\\mongomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|solutionrelative:model\\mongomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailorososection3\\section3crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailorososection3\\section3crud\\model\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|solutionrelative:model\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailorososection3\\section3crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailorososection3\\section3crud\\model\\mssqlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|solutionrelative:model\\mssqlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailorososection3\\section3crud\\model\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|solutionrelative:model\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailorososection3\\section3crud\\model\\returnobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353755AE-BC9A-4531-8D6C-28CB32BD0DEB}|Section3Crud.csproj|solutionrelative:model\\returnobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorLog.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Utility\\ErrorLog.cs",
+              "RelativeDocumentMoniker": "Utility\\ErrorLog.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Utility\\ErrorLog.cs",
+              "RelativeToolTip": "Utility\\ErrorLog.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:53:31.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:34:36.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAawDIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:14:31.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormModel.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Model\\FormModel.cs",
+              "RelativeDocumentMoniker": "Model\\FormModel.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Model\\FormModel.cs",
+              "RelativeToolTip": "Model\\FormModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:48:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MsSqlRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Repository\\MsSqlRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MsSqlRepository.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Repository\\MsSqlRepository.cs",
+              "RelativeToolTip": "Repository\\MsSqlRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADwvzYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:46:10.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Model\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "Model\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Model\\ApiDbContext.cs",
+              "RelativeToolTip": "Model\\ApiDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:44:51.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwFIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:32:18.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MsSqlModel.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Model\\MsSqlModel.cs",
+              "RelativeDocumentMoniker": "Model\\MsSqlModel.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Model\\MsSqlModel.cs",
+              "RelativeToolTip": "Model\\MsSqlModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:21:22.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReturnObject.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Model\\ReturnObject.cs",
+              "RelativeDocumentMoniker": "Model\\ReturnObject.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Model\\ReturnObject.cs",
+              "RelativeToolTip": "Model\\ReturnObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:02:54.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T15:00:24.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MongoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Model\\MongoModel.cs",
+              "RelativeDocumentMoniker": "Model\\MongoModel.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Model\\MongoModel.cs",
+              "RelativeToolTip": "Model\\MongoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:56:19.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Repository\\MongoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MongoRepository.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\MailorosoSection3\\Section3Crud\\Repository\\MongoRepository.cs",
+              "RelativeToolTip": "Repository\\MongoRepository.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAqwB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:51:46.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
