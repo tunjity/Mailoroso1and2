@@ -1,0 +1,26 @@
+# Use the official .NET SDK image to build the application
+FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS build
+WORKDIR /app
+
+# Copy csproj and restore dependencies
+COPY *.csproj ./
+RUN dotnet restore
+
+# Copy the rest of the application files and build the application
+COPY . ./
+RUN dotnet publish -c Release -o out
+
+# Use the official .NET runtime image for running the application
+FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS runtime
+WORKDIR /app
+COPY --from=build /app/out ./
+
+# Set environment variables
+ENV ASPNETCORE_URLS=http://+:80
+ENV ASPNETCORE_ENVIRONMENT=Production
+
+# Expose port 80
+EXPOSE 80
+
+# Run the application
+ENTRYPOINT ["dotnet", "MyWebApp.dll"]
