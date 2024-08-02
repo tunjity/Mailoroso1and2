@@ -1,14 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso\\NetworkDevice_Docker_Cryptography\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5A480FF4-7E91-461B-983D-2DAD20D59A8E}|..\\msql_mongo_crud\\msql_mongo_crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailoroso\\msql_mongo_crud\\model\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A480FF4-7E91-461B-983D-2DAD20D59A8E}|..\\msql_mongo_crud\\msql_mongo_crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailoroso\\msql_mongo_crud\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -16,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,32 +74,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApiDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso\\msql_mongo_crud\\Model\\ApiDbContext.cs",
-              "RelativeDocumentMoniker": "..\\msql_mongo_crud\\Model\\ApiDbContext.cs",
-              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso\\msql_mongo_crud\\Model\\ApiDbContext.cs",
-              "RelativeToolTip": "..\\msql_mongo_crud\\Model\\ApiDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T19:30:39.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso\\msql_mongo_crud\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "..\\msql_mongo_crud\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso\\msql_mongo_crud\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "..\\msql_mongo_crud\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T19:29:50.46Z",
-              "EditorCaption": ""
             }
           ]
         }
