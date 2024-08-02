@@ -3,12 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\MyWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE273773-5851-418A-9885-6D718BA0BEFD}|MyWebApp.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailoroso1and2\\mywebapp\\basiccryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE273773-5851-418A-9885-6D718BA0BEFD}|MyWebApp.csproj|solutionrelative:basiccryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C9EB9E8-F093-4FC8-8BC4-9369B0414C7B}|..\\..\\Mailoroso4and6\\Mailoroso4and6\\Mailoroso4and6.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailoroso4and6\\mailoroso4and6\\bootstrapserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE273773-5851-418A-9885-6D718BA0BEFD}|MyWebApp.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailoroso1and2\\mywebapp\\networkdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE273773-5851-418A-9885-6D718BA0BEFD}|MyWebApp.csproj|solutionrelative:networkdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C9EB9E8-F093-4FC8-8BC4-9369B0414C7B}|..\\..\\Mailoroso4and6\\Mailoroso4and6\\Mailoroso4and6.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailoroso4and6\\mailoroso4and6\\peer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9EB9E8-F093-4FC8-8BC4-9369B0414C7B}|..\\..\\Mailoroso4and6\\Mailoroso4and6\\Mailoroso4and6.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailoroso4and6\\mailoroso4and6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,27 +88,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NetworkDevice.cs",
-              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\MyWebApp\\NetworkDevice.cs",
-              "RelativeDocumentMoniker": "NetworkDevice.cs",
-              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\MyWebApp\\NetworkDevice.cs",
-              "RelativeToolTip": "NetworkDevice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Title": "Peer.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso4and6\\Mailoroso4and6\\Peer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Mailoroso4and6\\Mailoroso4and6\\Peer.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso4and6\\Mailoroso4and6\\Peer.cs",
+              "RelativeToolTip": "..\\..\\Mailoroso4and6\\Mailoroso4and6\\Peer.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAkwCoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:10:42.734Z",
+              "WhenOpened": "2024-08-02T18:56:29.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BasicCryptography.cs",
-              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\MyWebApp\\BasicCryptography.cs",
-              "RelativeDocumentMoniker": "BasicCryptography.cs",
-              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\MyWebApp\\BasicCryptography.cs",
-              "RelativeToolTip": "BasicCryptography.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAmwD0AAAAAAAAA",
+              "Title": "BootstrapServer.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso4and6\\Mailoroso4and6\\BootstrapServer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Mailoroso4and6\\Mailoroso4and6\\BootstrapServer.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso4and6\\Mailoroso4and6\\BootstrapServer.cs",
+              "RelativeToolTip": "..\\..\\Mailoroso4and6\\Mailoroso4and6\\BootstrapServer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:10:23.292Z",
+              "WhenOpened": "2024-08-02T18:53:17.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso4and6\\Mailoroso4and6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Mailoroso4and6\\Mailoroso4and6\\Program.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso4and6\\Mailoroso4and6\\Program.cs",
+              "RelativeToolTip": "..\\..\\Mailoroso4and6\\Mailoroso4and6\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:52:46.075Z",
               "EditorCaption": ""
             }
           ]

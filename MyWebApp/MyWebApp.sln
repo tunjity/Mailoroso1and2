@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWebApp", "MyWebApp.csproj", "{FE273773-5851-418A-9885-6D718BA0BEFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DockerNetworkDeviceCryptography", "DockerNetworkDeviceCryptography.csproj", "{FE273773-5851-418A-9885-6D718BA0BEFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2P", "..\..\Mailoroso4and6\Mailoroso4and6\P2P.csproj", "{5C9EB9E8-F093-4FC8-8BC4-9369B0414C7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FE273773-5851-418A-9885-6D718BA0BEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE273773-5851-418A-9885-6D718BA0BEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE273773-5851-418A-9885-6D718BA0BEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9EB9E8-F093-4FC8-8BC4-9369B0414C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9EB9E8-F093-4FC8-8BC4-9369B0414C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9EB9E8-F093-4FC8-8BC4-9369B0414C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9EB9E8-F093-4FC8-8BC4-9369B0414C7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

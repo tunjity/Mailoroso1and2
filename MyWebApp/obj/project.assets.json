@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\MyWebApp\\MyWebApp.csproj",
-      "projectName": "MyWebApp",
-      "projectPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\MyWebApp\\MyWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\MyWebApp\\DockerNetworkDeviceCryptography.csproj",
+      "projectName": "DockerNetworkDeviceCryptography",
+      "projectPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\MyWebApp\\DockerNetworkDeviceCryptography.csproj",
       "packagesPath": "C:\\Users\\Temitayo Oyetunji\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\MyWebApp\\obj\\",
       "projectStyle": "PackageReference",
