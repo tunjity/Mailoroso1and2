@@ -3,16 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso\\NetworkDevice_Docker_Cryptography\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\Mailoroso4and6\\obj\\Debug\\net8.0\\P2P.AssemblyInfoInputs.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{5A480FF4-7E91-461B-983D-2DAD20D59A8E}|..\\msql_mongo_crud\\msql_mongo_crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailoroso\\msql_mongo_crud\\model\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C9EB9E8-F093-4FC8-8BC4-9369B0414C7B}|..\\..\\Mailoroso4and6\\Mailoroso4and6\\P2P.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailoroso4and6\\mailoroso4and6\\peer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C9EB9E8-F093-4FC8-8BC4-9369B0414C7B}|..\\..\\Mailoroso4and6\\Mailoroso4and6\\P2P.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailoroso4and6\\mailoroso4and6\\bootstrapserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C9EB9E8-F093-4FC8-8BC4-9369B0414C7B}|..\\..\\Mailoroso4and6\\Mailoroso4and6\\P2P.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailoroso4and6\\mailoroso4and6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A480FF4-7E91-461B-983D-2DAD20D59A8E}|..\\msql_mongo_crud\\msql_mongo_crud.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\learning\\mailoroso\\msql_mongo_crud\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,49 +85,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "P2P.AssemblyInfoInputs.cache",
-              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\Mailoroso4and6\\obj\\Debug\\net8.0\\P2P.AssemblyInfoInputs.cache",
-              "RelativeDocumentMoniker": "..\\..\\Mailoroso1and2\\Mailoroso4and6\\obj\\Debug\\net8.0\\P2P.AssemblyInfoInputs.cache",
-              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso1and2\\Mailoroso4and6\\obj\\Debug\\net8.0\\P2P.AssemblyInfoInputs.cache",
-              "RelativeToolTip": "..\\..\\Mailoroso1and2\\Mailoroso4and6\\obj\\Debug\\net8.0\\P2P.AssemblyInfoInputs.cache",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
-              "WhenOpened": "2024-08-02T19:10:01.254Z"
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso\\msql_mongo_crud\\Model\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "..\\msql_mongo_crud\\Model\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso\\msql_mongo_crud\\Model\\ApiDbContext.cs",
+              "RelativeToolTip": "..\\msql_mongo_crud\\Model\\ApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:30:39.962Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Peer.cs",
-              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso4and6\\Mailoroso4and6\\Peer.cs",
-              "RelativeDocumentMoniker": "..\\..\\Mailoroso4and6\\Mailoroso4and6\\Peer.cs",
-              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso4and6\\Mailoroso4and6\\Peer.cs",
-              "RelativeToolTip": "..\\..\\Mailoroso4and6\\Mailoroso4and6\\Peer.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAkwCoAAAAMAAAA",
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso\\msql_mongo_crud\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "..\\msql_mongo_crud\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso\\msql_mongo_crud\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "..\\msql_mongo_crud\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:56:29.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BootstrapServer.cs",
-              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso4and6\\Mailoroso4and6\\BootstrapServer.cs",
-              "RelativeDocumentMoniker": "..\\..\\Mailoroso4and6\\Mailoroso4and6\\BootstrapServer.cs",
-              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso4and6\\Mailoroso4and6\\BootstrapServer.cs",
-              "RelativeToolTip": "..\\..\\Mailoroso4and6\\Mailoroso4and6\\BootstrapServer.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:53:17.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso4and6\\Mailoroso4and6\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\Mailoroso4and6\\Mailoroso4and6\\Program.cs",
-              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Learning\\Mailoroso4and6\\Mailoroso4and6\\Program.cs",
-              "RelativeToolTip": "..\\..\\Mailoroso4and6\\Mailoroso4and6\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:52:46.075Z"
+              "WhenOpened": "2024-08-02T19:29:50.46Z",
+              "EditorCaption": ""
             }
           ]
         }

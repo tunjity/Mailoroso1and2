@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DockerNetworkDeviceCryptography")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbc33da5424731ee1ec4fcf468c12e972799cb5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c68a5ce602e0d030cca6755e05126d5621781f86")]
 [assembly: System.Reflection.AssemblyProductAttribute("DockerNetworkDeviceCryptography")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DockerNetworkDeviceCryptography")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
