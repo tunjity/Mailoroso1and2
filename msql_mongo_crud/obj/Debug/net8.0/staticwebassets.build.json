@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qbxwULnlSLW3jaED2+cWDArJXPh51sk0tY3c5Lq9yZs=",
+  "Source": "msql_mongo_crud",
+  "BasePath": "_content/msql_mongo_crud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
